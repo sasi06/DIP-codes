@@ -1,4 +1,3 @@
-
 Basic Image operations
 Histogram Equalization
 Applying different kinds of Filters.
